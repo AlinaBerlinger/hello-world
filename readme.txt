@@ -1,1 +1,2 @@
-hello
+"hello"
+"Another line"
